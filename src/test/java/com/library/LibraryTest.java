@@ -18,7 +18,7 @@ public class LibraryTest {
         assertTrue(reader.returnBook(book));
         assertTrue(book.isAvailable());
     }
-<<<<<<< HEAD
+
 
     @Test
     public void testBorrowUnavailableBook() {
