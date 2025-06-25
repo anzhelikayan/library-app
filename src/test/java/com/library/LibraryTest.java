@@ -93,6 +93,4 @@ public class LibraryTest {
         assertTrue(book.isAvailable());
     }
 
-=======
->>>>>>> dbeebb515d20458f97d526dc795a20493a05dc83
 }
